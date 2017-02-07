@@ -2,6 +2,7 @@
 ### The Course Companion Guide
 
 ## Hands-out
+* [IoT and Cloud Computing](slides/IoT2Cloud.pdf)
 * [Bitcoin & Blockchain](slides/bc00.pdf)
 * [Chapter 1](slides/bc01.pdf)
 * [Chapter 2](slides/bc02.pdf)
